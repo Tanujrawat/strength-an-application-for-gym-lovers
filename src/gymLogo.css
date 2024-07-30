@@ -1,0 +1,32 @@
+.gymLogo {
+    /* display: flex;
+    justify-content: flex-start; */
+    /* padding-bottom: 10px; */
+    height: auto;
+    width: 150px;
+    position: absolute;
+    top:10px;
+    left: 10;
+}
+
+.strength {
+    /* Color and Opacity */
+    color: #FF8C00; /* Orange example */
+    opacity: 0.8;
+  
+    /* Font and Weight */
+    font-family: 'Montserrat', sans-serif; /* Example font change */
+    font-weight: bold;
+  
+    /* Text Decoration and Shadow */
+    text-decoration: underline 2px solid transparent; /* Underline with transparent color for subtle effect */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.2);
+  
+    /* Background Gradient (Optional) */
+    /* Uncomment if you prefer a background gradient */
+    /* display: inline-block;
+       padding: 3px 5px;
+       background: linear-gradient(to right, #f2f2f2, #e3e3e3);
+       border-radius: 3px; */
+  }
+  
